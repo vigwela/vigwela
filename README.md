@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on any project as a frontend developer.
-- 📫 How to reach me: vigwela@gmail.com
-- ⚡ Fun fact: I'm an aspiring fashion model 😉
+- 📫 You can contact me at: vigwela@gmail.com
+- ⚡ Fun fact: I'm an aspiring fashion model.
 
 <!--
 
